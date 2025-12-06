@@ -1,3 +1,5 @@
+import { defaultCompareFn } from "../utils";
+
 /**
  * Bubble sort algorithm implementation
  * Time complexity: O(n^2)
@@ -27,15 +29,4 @@ export function bubbleSort<T = number>(
 	} while (swapped);
 
 	return array;
-}
-
-/**
- * Default compare function for bubble sort (ascending)
- * @template T - Type of array elements (defaults to number)
- * @param a - First element
- * @param b - Second element
- * @returns True if a is greater than b, false otherwise
- */
-function defaultCompareFn<T = number>(a: T, b: T): boolean {
-	return a > b;
 }
