@@ -1,5 +1,12 @@
 import { defaultCompareFn } from "../utils";
 
+/**
+ * Insertion sort algorithm implementation.
+ * @template T The type of elements in the array.
+ * @param array The array to be sorted.
+ * @param compareFn The comparison function to determine the order of elements.
+ * @returns The sorted array.
+ */
 export function insertionSort<T = number>(
 	array: T[],
 	compareFn = defaultCompareFn<T>
