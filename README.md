@@ -26,7 +26,9 @@ Practice lives under `src/`, organized by course:
 ```
 src/
 	<course>/
+    README.md
 		<topic-or-module>/
+      README.md
 			<exercise>/
 				README.md
 				<exercise>.ts
