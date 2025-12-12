@@ -1,7 +1,7 @@
 import { test, expect, describe } from "vitest";
 import { bubbleSort } from "./bubble-sort";
 
-describe.skip("Bubble sort tests", () => {
+describe("Bubble sort tests", () => {
 	test("should sort an array", () => {
 		const testArray = [5, 3, 2, 4, 1];
 		const sortedArray = bubbleSort(testArray);
