@@ -1,5 +1,5 @@
 /**
- * Default compare function for bubble sort (ascending)
+ * Default comparison function (ascending).
  * @template T - Type of array elements (defaults to number)
  * @param a - First element
  * @param b - Second element
