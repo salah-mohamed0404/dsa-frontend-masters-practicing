@@ -13,9 +13,9 @@ Merge sort is a recursion based divide and conquer algorithm. it's idea is all a
 
 With merge sort each case is the same already sorted array takes the same time of shuffled or reverse sorted one (with the same number of items "array length")
 
-- Worst: $O(n log n)$
-- Average: $O(n log n)$
-- Best: $O(n log n)$
+- Worst: $O(n \log n)$
+- Average: $O(n \log n)$
+- Best: $O(n \log n)$
 
 ### Space Complexity
 
