@@ -5,7 +5,7 @@
 
 ## Explanation
 
-Quick Sort is a divide-and-conquer recursive algorithm. It works by selecting a "pivot" element from the array and partitioning the other elements into two sub-arrays: those smaller than the pivot and those larger than the pivot. These sub-arrays are then sorted recursively.
+Quick Sort is a divide-and-conquer recursive unstable algorithm. It works by selecting a "pivot" element from the array and partitioning the other elements into two sub-arrays: those smaller than the pivot and those larger than the pivot. These sub-arrays are then sorted recursively.
 
 In this implementation, we pick the last element as the pivot. We then iterate through the rest of the array, pushing elements into `leftArray` or `rightArray` based on their comparison with the pivot. Finally, we concatenate the sorted left array, the pivot, and the sorted right array.
 
