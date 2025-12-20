@@ -1,5 +1,11 @@
 import { defaultCompareFn } from "../utils";
 
+/**
+ * @template T
+ * @param array The array to be sorted of type T
+ * @param compareFn Optional comparison function to determine the order of elements
+ * @returns A new sorted array of type T
+ */
 export function quickSort<T>(array: T[], compareFn = defaultCompareFn<T>): T[] {
 	if (array.length <= 1) return array;
 
