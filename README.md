@@ -53,6 +53,8 @@ What I’ve completed so far:
 - Sorting
   - Bubble Sort — [src/complete-intro-to-computer/bubble-sort](./src/complete-intro-to-computer/bubble-sort)
   - Insertion Sort — [src/complete-intro-to-computer/insertion-sort](./src/complete-intro-to-computer/insertion-sort)
+  - Merge Sort — [src/complete-intro-to-computer/merge-sort](./src/complete-intro-to-computer/merge-sort)
+  - Quick Sort — [src/complete-intro-to-computer/quick-sort](./src/complete-intro-to-computer/quick-sort)
 - Recursion
   - Recursion exercises index — [src/complete-intro-to-computer/recursion-exercises](./src/complete-intro-to-computer/recursion-exercises)
   - Add Nested Number Array — [src/complete-intro-to-computer/recursion-exercises/recursion-nested-add](./src/complete-intro-to-computer/recursion-exercises/recursion-nested-add)

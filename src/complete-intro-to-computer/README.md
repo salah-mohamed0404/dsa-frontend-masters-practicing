@@ -29,6 +29,8 @@ Each exercise typically includes:
 
 - Bubble Sort — [bubble-sort](./bubble-sort)
 - Insertion Sort — [insertion-sort](./insertion-sort)
+- Merge Sort — [merge-sort](./merge-sort)
+- Quick Sort — [quick-sort](./quick-sort)
 
 ### Recursion
 
