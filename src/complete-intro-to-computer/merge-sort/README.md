@@ -5,7 +5,7 @@
 
 ## Explanation
 
-Merge sort is a recursion based algorithm. it's idea is all about divide the array till we have sub arrays of length 1 (sorted by definition) and merge them back in sorted order till we finally have a sorted array.
+Merge sort is a recursion based divide and conquer algorithm. it's idea is all about divide the array till we have sub arrays of length 1 (sorted by definition) and merge them back in sorted order till we finally have a sorted array.
 
 ## Complexity
 
