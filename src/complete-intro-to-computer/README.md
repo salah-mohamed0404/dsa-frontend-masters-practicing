@@ -32,6 +32,10 @@ Each exercise typically includes:
 - Merge Sort — [merge-sort](./merge-sort)
 - Quick Sort — [quick-sort](./quick-sort)
 
+### Searching
+
+- Binary Search — [binary-search](./binary-search)
+
 ### Recursion
 
 - Recursion exercises index — [recursion-exercises](./recursion-exercises)
