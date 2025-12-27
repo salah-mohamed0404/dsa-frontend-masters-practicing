@@ -41,6 +41,10 @@ Each exercise typically includes:
 - Recursion exercises index — [recursion-exercises](./recursion-exercises)
 - Add Nested Number Array — [recursion-exercises/recursion-nested-add](./recursion-exercises/recursion-nested-add)
 
+### Data Structures
+
+- Array List — [array-list](./array-list)
+
 ## Status
 
 - In progress — this README will expand as I complete more modules from the course.

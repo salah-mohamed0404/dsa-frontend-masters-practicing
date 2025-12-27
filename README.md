@@ -60,6 +60,8 @@ What I’ve completed so far:
 - Recursion
   - Recursion exercises index — [src/complete-intro-to-computer/recursion-exercises](./src/complete-intro-to-computer/recursion-exercises)
   - Add Nested Number Array — [src/complete-intro-to-computer/recursion-exercises/recursion-nested-add](./src/complete-intro-to-computer/recursion-exercises/recursion-nested-add)
+- Data Structures
+  - Array List — [src/complete-intro-to-computer/array-list](./src/complete-intro-to-computer/array-list)
 
 ### 2) The Last Algorithms Course You’ll Need
 
